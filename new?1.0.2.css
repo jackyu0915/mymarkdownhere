@@ -1,7 +1,9 @@
 * {
   color:#3e3e3e;
 }
-
+p{
+  text-align: center;
+}
 p{
   letter-spacing: 1px !important;
   line-height: 1.7 !important;
